@@ -1,9 +1,9 @@
-刘勇 	
+﻿刘勇 	
 应 聘：前端开发工程师
 性 别：男	
 电 话：15045009738
 CSDN：https://blog.csdn.net/qq_40279656 	
-github：https://github.com/f-dandelion 
+github：https://github.com/Liu-WebStar
 工作经验：3年		
 学历：专科
 目前情况：在职考虑机会		
