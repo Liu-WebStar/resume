@@ -2,29 +2,34 @@
 应 聘：前端开发工程师
 性 别：男	
 电 话：15045009738
-CSDN：https://blog.csdn.net/qq_40279656 	
-github：https://github.com/Liu-WebStar
+邮箱：740269606@qq.com
 工作经验：3年		
 学历：专科
+CSDN：https://me.csdn.net/qq_40279656?ref=miniprofile 	
+github：https://github.com/Liu-WebStar
 目前情况：在职考虑机会		
 
 专业技能:
 （1）熟练使用HTML、CSS、H5、C3 技能，可以使用多种页面布局方法，熟悉浏览器兼容性
-（2）熟练使用ES5，ES6各种新特性，掌握export封装api请求接口、封装函数，以及各种简化代码的新特性方法，可以有效增进开发效率，节省代码空间。
+（2）熟练使用ES6等各种新特性，掌握箭头函数、解构赋值、export封装接口、async/await调用接口、封装函数，以及各种简化代码的新特性方法，可以有效增进开发效率，节省代码空间。
 （3）熟练使用原生JS，在工作中熟练运用BOM，DOM 相关对象方法及操作思想，熟练运用类与对象、继承类、 jQuery 相关操作方法，并可以对业务逻辑进行封装处理。
-（4）在工作中使用 vue.js(vue-router、vuex、devTools、ElementUI、iView、Vant 等)构建项目，使用数据绑定， 组件化开发，自主开发组件库，SPA 应用，生命周期，路由跳转等技术，熟练使用 AJAX 及各种扩展访问后台、文件上传、表单验证。
+（4）在工作中使用`vue.js、vue-router、vuex、devTools、Nuxt.js(SSR)、ElementUI、element-admin、iView、Vant`等构建项目，使用数据绑定，组件化开发，自主开发组件库，SPA应用，生命周期，路由跳转等技术，熟练使用AJAX及各种扩展访问后台、文件上传、表单验证。
 （5）了解Node.js(Express)，php，java，MySQL 数据库设计，SQL 语句操作数据库
 （6）了解微信小程序(可以做项目)，Angular，React
 
 应聘优势：
-1、有JS、jQuery、tpl项目经验，有能力对公司老项目进行维护优化。
+1、有丰富的JS、jQuery、SSR项目经验，有能力对公司老项目进行维护优化。
 2、有丰富的Vue开发经验，做过PC项目、移动端项目的前端负责人，项目的框架、架构均为本人搭建，在项目中除了引入第三方组件库还会根据业务需求自主开发vue插件库、组件库，熟练使用render函数开发组件。
-3、对Vue中的vue实例、vue-cli、vue-router、vuex、指令、事件、filter、computed、watch、provide/inject、props、slot、v-model、组件通信等技术均有过深入研究。
+3、对Vue中的vue实例、vue-cli、vue-router、vuex、指令、事件、filter、computed、watch、provide/inject、props、slot、v-model、$bus、组件通信等技术均有过深入研究。
 4、喜欢钻研技术，有较强的自学能力，擅于主动发现问题、自主解决问题，敢于吃苦，不畏加班，有通过写博客来加强自身对技术理解的习惯。
 
 工作经历:
 一线达通科技发展有限公司	2019.5-至今
 担任前端主管，参与公司项目需求定制，根据设计稿、原型图带领前端组进行页面还原，业务逻辑还原，负责公司前端组的开发进度。
+哈尔滨墨瞳广告设计有限公司	2018.4-2019.4
+主要用到的框架有JavaScript、Vue，按时完成上级交付的前端开发任务。
+黑龙江耕耘网络科技有限公司	2017.7-2018.4
+辅助同事完成页面的Html和Css布局，使用原生js和Css3实现一些特效及前后端数据交互等工作
 
 项目经验:
 项目一：一线达通政企采购商城（PC端） 2019 Vue
@@ -42,8 +47,7 @@ https://www.city-office.com.cn/
 7、落地报务商申请页面含有大量表单验证及提示功能，包括字段验证、三级联动、文件上传限制数量/大小/类型等。
 
 项目二：一线达通政企采购商城（移动端） 2020 Vue
-https://www.city-office.com.cn/mobile_shop(测试中，预计9月上线)
-http://api.city-office.com.cn/main/mobile_shop/#/（测试站）
+https://www.city-office.com.cn/mobile_shop
 
 项目描述：商城类项目，在PC端商城上线且维护稳定后公司要求开发移动端商城，我在此项目中担任项目负责人。
 
@@ -78,6 +82,6 @@ http://api.city-office.com.cn/main/mobile_shop/#/（测试站）
 3、开发过程中克服了websocked实时通信的技术困难。
 4、该项目中涉及到了大量的前后端数据交互的功能开发，和大量的表单功能、表单验证功能开发。
 
-
+简历更新时间：2020年9月22日
 感谢您的阅读
 
