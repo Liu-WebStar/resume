@@ -1,4 +1,4 @@
-# 刘勇 	web前端工程师
+# 刘勇 	Web前端工程师
 
 <div align=center><img src="https://avatars0.githubusercontent.com/u/69309048?s=460&u=1deb1dda78ebc40ec6d52157a1bc266be45d0824&v=4" alt="个人照片" width="50%"/></div>
 
