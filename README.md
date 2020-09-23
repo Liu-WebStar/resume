@@ -1,6 +1,6 @@
 # 刘勇 	Web前端工程师
 
-<div align=center><img src="https://static.zanzu88.com/2020-386yh-admin/2020092320200923090649ftgi.jpg" alt="个人照片" width="20%"/></div>
+<div align=center><img src="https://avatars0.githubusercontent.com/u/69309048?s=460&u=1deb1dda78ebc40ec6d52157a1bc266be45d0824&v=4" alt="个人照片" width="50%"/></div>
 
 - 应聘：前端开发工程师
 - 性别：男	
